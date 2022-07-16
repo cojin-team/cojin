@@ -3,7 +3,6 @@ Cojin
 
 What is Cojin?
 
-Cojin is a decentralized currency. Decentralized currency refers to bank-free methods of transferring wealth or ownership of any other commodity without needing a third party. Cojin is a fork of blackcoin.
 
 Cojin basic properties:
 
@@ -11,7 +10,7 @@ Cojin basic properties:
 
 -POW reward 20 CJN
 
--Block interval of 2 minutes
+-Block interval of 3 minutes
 
 -Unlimited supply
 
@@ -22,7 +21,7 @@ Info
 ====
 Website: https://cojin.info
 
-Block Explorer: Temporarily offline
+Block Explorer: http://explorer.cojin.info
 
 Please join our community!
 Discord Server: https://discord.gg/nqDb3vaUEF
@@ -32,11 +31,11 @@ Official Pools:
 
 https://miningpoolstats.stream/cojin
 
-------------------------------------------------------------------------
-Contact info
--------
-Contact info:
+https://pool.cojin.info
 
+------------------------------------------------------------------------
+Contact info:
+-------
 Email : 1nf1n19y@gmail.com
 
 Discord: 1NF1N18Y#8090
